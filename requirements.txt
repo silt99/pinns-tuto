@@ -1,0 +1,6 @@
+matplotlib
+numpy
+torch
+torchvision 
+torchaudio
+-i https://download.pytorch.org/whl/cpu
